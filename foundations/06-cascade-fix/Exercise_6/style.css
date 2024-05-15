@@ -1,0 +1,28 @@
+.para {
+    font-weight: bold;
+    font-size: 28px;
+}
+
+.small-para {
+    font-size: 20px
+}
+
+.button {
+    font-size: 18px;
+}
+
+#confirm-button {
+    background-color: green;
+    color: white;
+    font-weight: bold;
+}
+
+.text {
+    font-size: 20px;
+    font-weight: lighter;
+}
+
+.child {
+    font-weight: bold;
+    font-size: 16px;
+}
